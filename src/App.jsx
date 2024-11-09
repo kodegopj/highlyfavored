@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       <Routes>
-        <Route path="/home" exact element={<Home />} />
+        <Route path="/" exact element={<Home />} />
         <Route path="/about" exact element={<About />} />
         <Route path="/portfolio" exact element={<Portfolio />} />
         <Route path="/contact" exact element={<Contact />} />
