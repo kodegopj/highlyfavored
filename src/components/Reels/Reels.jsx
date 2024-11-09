@@ -1,9 +1,9 @@
 import React from 'react';
 import "../../Styles/Reels.css";
-import v1 from "../../assets/v1.mp4";
-import v2 from "../../assets/v2.mp4";
-import v3 from "../../assets/v3.mp4";
-import v4 from "../../assets/v4.mp4";
+import pc1 from "../../assets/Podcast/pc1.mp4";
+import pc2 from "../../assets/Podcast/pc2.mp4";
+import pc3 from "../../assets/Podcast/pc3.mp4";
+import pc4 from "../../assets/Podcast/pc4.mp4";
 
 
 function Reels() {
@@ -18,7 +18,7 @@ function Reels() {
           ------
           </div>
          <div className='phone21'>
-          <video src={v1} controls autoPlay muted loop className='phone1'></video>
+          <video src={pc1} controls autoPlay muted loop className='phone1'></video>
          </div>
          <div className='lower'> 
           <div className='cir'>
@@ -34,7 +34,7 @@ function Reels() {
           ------
           </div>
          <div className='phone21'>
-          <video src={v2} controls autoPlay muted loop className='phone1'></video>
+          <video src={pc2} controls autoPlay muted loop className='phone1'></video>
          </div>
          <div className='lower'> 
           <div className='cir'>
@@ -50,7 +50,7 @@ function Reels() {
           ------
           </div>
          <div className='phone21'>
-          <video src={v3} controls autoPlay muted loop className='phone1'></video>
+          <video src={pc3} controls autoPlay muted loop className='phone1'></video>
          </div>
          <div className='lower'> 
           <div className='cir'>
@@ -66,7 +66,7 @@ function Reels() {
           ------
           </div>
          <div className='phone21'>
-          <video src={v4} controls autoPlay muted loop className='phone1'></video>
+          <video src={pc4} controls autoPlay muted loop className='phone1'></video>
          </div>
          <div className='lower'> 
           <div className='cir'>

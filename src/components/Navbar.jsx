@@ -2,6 +2,7 @@ import React, { useRef } from 'react';
 import {  FaTimes } from "react-icons/fa";
 import { RiApps2Line } from "react-icons/ri";
 import "../Styles/Nav.css";
+import { Link } from 'react-router-dom';
 
 function Navbar() {
     const navRef = useRef();
@@ -16,12 +17,16 @@ function Navbar() {
         <p className='hf'></p> <b className='favored'>Highly Favored</b> {" "}
        
         <nav ref={navRef} className='navname'>
-            <a href="#home">Home</a>
-            <a href="#showreel">Show reels</a>
-            <a href="#reels">More Sample</a>
-            <a href="#contacts" className='contact'>
+            {/* <a href="#home">Home</a>
+            <a href="#showreel">About</a>
+            <a href="#reels">Portfolio</a> */}
+            {/* <a href="#contacts" className='contact'>
                 Contact Us
-            </a>
+            </a> */}
+            <Link to="/home" className="home"> Home </Link>
+            <Link to="/about" className="aboutpage"> About </Link>
+            <Link to="/portfolio" className="portfolio"> Portfolio </Link>
+            <Link to="/contact" className="contact"> Contact Us </Link>
 
             <button className='nav-btn nav-close-btn' onClick={showNavbar}>
                 <FaTimes/>

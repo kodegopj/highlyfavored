@@ -27,13 +27,14 @@
     font-size: 4rem;
     align-items: center;
     justify-content: center;
+    color: #eeb746;
 }
 
 .works__title {
     font-size: 1.5rem   ;
 }
 
-.contacts {
+.contactss {
     font-size: 2rem;
     background-color: #eeb746;
     padding: 10px 20px;

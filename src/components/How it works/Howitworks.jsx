@@ -3,6 +3,7 @@ import { FaUpload } from "react-icons/fa";
 import { FaFileVideo } from "react-icons/fa";
 import { MdPublishedWithChanges } from "react-icons/md";
 import "../../Styles/Howitworks.css";
+import { Link } from 'react-router-dom';
 
 function Howitworks() {
   return (
@@ -66,8 +67,9 @@ function Howitworks() {
         </div>
 
         <div className='contact__box'>
-        <button  className='contacts'>
-            <b>Contact Us</b>
+        <button  className='contactss'>
+        <Link to="/contact" className="contact"> <b>Contact Us</b> </Link>
+            
         </button>
         </div>
 
