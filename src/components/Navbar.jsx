@@ -23,7 +23,7 @@ function Navbar() {
             {/* <a href="#contacts" className='contact'>
                 Contact Us
             </a> */}
-            <Link to="/home" className="home"> Home </Link>
+            <Link to="/" className="home"> Home </Link>
             <Link to="/about" className="aboutpage"> About </Link>
             <Link to="/portfolio" className="portfolio"> Portfolio </Link>
             <Link to="/contact" className="contact"> Contact Us </Link>
