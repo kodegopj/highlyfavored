@@ -291,7 +291,7 @@
     .ayimg1 {
         background-image: url(../assets/Whatareyou/yt.jpg);
         height: 350px;
-        width: 350px;
+        width: 340px;
         background-size: cover;
         background-position: center; 
         border-radius: 5%;
@@ -302,7 +302,7 @@
     .ayimg2 {
         background-image: url(../assets/Whatareyou/marketing.jpg);
         height: 350px;
-        width: 350px;
+        width: 340px;
         background-size: cover;
         background-position: center; 
         border-radius: 5%;
@@ -312,7 +312,7 @@
     .ayimg3 {
         background-image: url(../assets/Whatareyou/bisnis.jpg);
         height: 300px;
-        width: 350px;
+        width: 340px;
         background-size: cover;
         background-position: center; 
         justify-content: center;
