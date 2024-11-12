@@ -275,9 +275,9 @@
     }
 }
 
-@media (min-width: 350px) and (max-width: 370px)  {
+@media (min-width: 360px) and (max-width: 370px)  {
     .what__title {
-        font-size: 2.5rem;
+        font-size: 2.3rem;
         /* margin-bottom: 20px; */
         font-family: "Syne", sans-serif;
         font-optical-sizing: auto;
@@ -291,7 +291,7 @@
     .ayimg1 {
         background-image: url(../assets/Whatareyou/yt.jpg);
         height: 350px;
-        width: 340px;
+        width: 320px;
         background-size: cover;
         background-position: center; 
         border-radius: 5%;
@@ -302,7 +302,7 @@
     .ayimg2 {
         background-image: url(../assets/Whatareyou/marketing.jpg);
         height: 350px;
-        width: 340px;
+        width: 320px;
         background-size: cover;
         background-position: center; 
         border-radius: 5%;
@@ -312,7 +312,7 @@
     .ayimg3 {
         background-image: url(../assets/Whatareyou/bisnis.jpg);
         height: 300px;
-        width: 340px;
+        width: 320px;
         background-size: cover;
         background-position: center; 
         justify-content: center;
@@ -347,7 +347,7 @@
     }
 }
 
-@media (min-width: 300px) and (max-width: 349px) {
+@media (min-width: 300px) and (max-width: 359px) {
     .what__title {
         font-size: 2rem;
         /* margin-bottom: 20px; */

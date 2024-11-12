@@ -284,7 +284,7 @@
 
 }
 
-@media (min-width: 350px) and (max-width: 399px)  {
+@media (min-width: 360px) and (max-width: 399px)  {
     .more__text {   
         font-size: 2rem;
         margin-bottom: 30px;
@@ -316,7 +316,7 @@
         width: 270px;
         background-color: #1e1d1d;
         margin-bottom: 30px;
-        margin-left: 38px;
+        /* margin-left: 38px; */
         
     }
 
@@ -348,7 +348,7 @@
     }
 }
 
-@media (min-width: 300px) and (max-width: 349px) {
+@media (min-width: 300px) and (max-width: 359px) {
     .more__text {   
         font-size: 2rem;
         margin-bottom: 30px;
