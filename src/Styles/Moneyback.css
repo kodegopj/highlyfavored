@@ -142,7 +142,7 @@
     }
 }
 
-@media (min-width: 350px) and (max-width: 399px) {
+@media (min-width: 360px) and (max-width: 399px) {
     .money__main {
         display: flex;
         justify-content: center;
@@ -179,7 +179,7 @@
     }
 }
 
-@media (min-width: 300px) and (max-width: 349px) {
+@media (min-width: 300px) and (max-width: 359px) {
     .money__main {
         display: flex;
         justify-content: center;

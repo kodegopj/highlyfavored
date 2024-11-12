@@ -189,7 +189,7 @@
  
  }
  
- @media (min-width: 350px) and (max-width: 399px) {
+ @media (min-width: 360px) and (max-width: 399px) {
      .show__video {
          background-image: url(../assets/camera.jpg);
          height: 195px;
@@ -245,7 +245,7 @@
  
  }
  
- @media (min-width: 300px) and (max-width: 349px) {
+ @media (min-width: 300px) and (max-width: 359px) {
        .show__video {
          background-image: url(../assets/camera.jpg);
          height: 195px;
