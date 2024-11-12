@@ -275,7 +275,7 @@
     }
 }
 
-@media (min-width: 350px) and (max-width: 399px)  {
+@media (min-width: 350px) and (max-width: 370px)  {
     .what__title {
         font-size: 2.5rem;
         /* margin-bottom: 20px; */
