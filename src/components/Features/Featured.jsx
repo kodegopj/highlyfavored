@@ -15,7 +15,7 @@ function Featured() {
                 <div className='name__title'>Professional Editors On Demand</div>
                 <br />
                 <div className='name__text'>
-                In order for Highly Favored to be the best video editing service in the industry, Highly Favored  recruits top talent to handle your edits. Contact us and get your videos edited by expert editors who always strive to make you look amazing.
+                In order for HighVision Media to be the best video editing service in the industry, Highly Favored  recruits top talent to handle your edits. Contact us and get your videos edited by expert editors who always strive to make you look amazing.
                 </div>
             </div>
 
@@ -42,7 +42,7 @@ function Featured() {
                 <div className='name__title'>Turnaround Time Is Just 2 Days</div>
                 <br />
                 <div className='name__text'>
-                Highly Favored doesn’t take weeks to edit like the other guys. Instead, we offer a 2 day turnaround time. When you get your video back you can always ask for revisions as well. Revisions only take 1 day! For complex videos it can take a few additional hours.
+                HighVision Media doesn’t take weeks to edit like the other guys. Instead, we offer a 2 day turnaround time. When you get your video back you can always ask for revisions as well. Revisions only take 1 day! For complex videos it can take a few additional hours.
                 </div>
             </div>
 

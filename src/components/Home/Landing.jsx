@@ -5,7 +5,7 @@ function Landing() {
     <section className='welcome__section'>
       
        <div className='studio'>
-            Welcome to Highly Favored Studio
+            Welcome to HighVision Media
         </div>
 
         <div className='lets'>

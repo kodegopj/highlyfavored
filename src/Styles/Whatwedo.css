@@ -33,3 +33,193 @@
     border-bottom: 1px solid;
     margin-bottom: 20px;
 }
+
+@media (min-width: 1000px) and (max-width: 1390px) {
+    .whatwedo__main {
+        border-bottom: 1px solid;
+        margin: 40px 30px;
+    }
+    
+    .we__title {
+        font-size: 3rem;
+        margin-bottom: 10px;
+        font-family: "Syne", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        display: flex;
+        justify-content: center;
+        padding-top: 50px;
+    }
+    
+    .secondbox {
+        display: flex;
+        justify-content: center;
+        font-size: 1.3rem;
+    }
+    .firstbox {
+        width: 500px;
+        margin: 30px;
+        background-color: rgb(243, 240, 240);
+        padding: 35px;
+        border-radius: 5%;
+    }
+    
+    .b__title {
+        font-size: 1.5rem;
+        padding-bottom: 20px;
+        border-bottom: 1px solid;
+        margin-bottom: 20px;
+    }
+}
+
+@media (min-width: 760px) and (max-width: 1000px) {
+    .whatwedo__main {
+        border-bottom: 1px solid;
+        margin: 10px 10px;
+    }
+    
+    .we__title {
+        font-size: 3rem;
+        margin-bottom: 10px;
+        font-family: "Syne", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        display: flex;
+        justify-content: center;
+        padding-top: 40px;
+    }
+    
+    .secondbox {
+        display: flex;
+        justify-content: center;
+        font-size: 1.3rem;
+    }
+    .firstbox {
+        width: 500px;
+        margin: 30px;
+        background-color: rgb(243, 240, 240);
+        padding: 20px;
+        border-radius: 25px;
+    }
+    
+    .b__title {
+        font-size: 1.5rem;
+        padding-bottom: 20px;
+        border-bottom: 1px solid;
+        margin-bottom: 10px;
+    }
+}
+
+@media (min-width: 400px) and (max-width: 759px) {
+    .whatwedo__main {
+        border-bottom: 1px solid;
+        margin: 10px 10px;
+    }
+    
+    .we__title {
+        font-size: 3rem;
+        margin-bottom: 10px;
+        font-family: "Syne", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        display: flex;
+        justify-content: center;
+        padding-top: 40px;
+    }
+    
+    .secondbox {
+        display: block;
+        justify-content: center;
+        font-size: 1.3rem;
+    }
+    .firstbox {
+        width: 355px;
+        /* margin: 30px; */
+        background-color: rgb(243, 240, 240);
+        padding: 20px;
+        border-radius: 25px;
+    }
+    
+    .b__title {
+        font-size: 1.5rem;
+        padding-bottom: 10px;
+        border-bottom: 1px solid;
+        margin-bottom: 10px;
+    }
+}
+
+@media (min-width: 350px) and (max-width: 399px) {
+    .whatwedo__main {
+        border-bottom: 1px solid;
+        margin: 10px 10px;
+    }
+    
+    .we__title {
+        font-size: 2.5rem;
+        margin-bottom: 10px;
+        font-family: "Syne", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        display: flex;
+        justify-content: center;
+        padding-top: 40px;
+    }
+    
+    .secondbox {
+        display: block;
+        justify-content: center;
+        font-size: 1.3rem;
+    }
+    .firstbox {
+        width: 305px;
+        /* margin: 30px; */
+        background-color: rgb(243, 240, 240);
+        padding: 20px;
+        border-radius: 25px;
+    }
+    
+    .b__title {
+        font-size: 1.5rem;
+        padding-bottom: 10px;
+        border-bottom: 1px solid;
+        margin-bottom: 10px;
+    }
+}
+
+@media (min-width: 300px) and (max-width: 349px) {
+    .whatwedo__main {
+        border-bottom: 1px solid;
+        margin: 10px 10px;
+    }
+    
+    .we__title {
+        font-size: 2.5rem;
+        margin-bottom: 10px;
+        font-family: "Syne", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        display: flex;
+        justify-content: center;
+        padding-top: 40px;
+    }
+    
+    .secondbox {
+        display: block;
+        justify-content: center;
+        font-size: 1.3rem;
+    }
+    .firstbox {
+        width: 255px;
+        /* margin: 30px; */
+        background-color: rgb(243, 240, 240);
+        padding: 20px;
+        border-radius: 25px;
+    }
+    
+    .b__title {
+        font-size: 1.5rem;
+        padding-bottom: 10px;
+        border-bottom: 1px solid;
+        margin-bottom: 10px;
+    }
+}

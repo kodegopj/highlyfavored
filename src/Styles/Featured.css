@@ -35,3 +35,207 @@
     padding: 8px 15px;
     color: #333333;
 }
+
+@media (min-width: 1000px) and (max-width: 1390px) {
+    .featured__title {
+        font-size: 2.5rem;
+        margin-bottom: 10px;
+        font-family: "Syne", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        display: flex;
+        justify-content: center;
+        padding-top: 70px;
+        color: #eeb746;
+    }
+    
+    .box {
+        border: 1px solid #333333;;
+        margin: 10px;
+    }
+    
+    .main__box {
+        display: flex;
+        justify-content: center;
+        margin: 30px 30px;
+    }
+    
+    .name__title {
+        font-size: 1.5rem;
+        padding: 10px 15px;
+        display: flex;
+        justify-content: center;
+        color: #333333;
+        background-color: #eeb746;
+    }
+    
+    .name__text {
+        font-size: 1.3rem;
+        padding: 8px 25px 10px 25px;
+        color: #333333;
+    }
+}
+
+@media (min-width: 760px) and (max-width: 1000px) {
+    .featured__title {
+        font-size: 2.5rem;
+        margin-bottom: 10px;
+        font-family: "Syne", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        display: flex;
+        justify-content: center;
+        padding-top: 70px;
+        color: #eeb746;
+    }
+    
+    .box {
+        border: 1px solid #333333;;
+        margin: 30px;
+    }
+    
+    .main__box {
+        display: block;
+        justify-content: center;
+        margin: 30px 30px;
+        padding: 0px 30px;
+    }
+    
+    .name__title {
+        font-size: 1.5rem;
+        padding: 15px 15px;
+        display: flex;
+        justify-content: center;
+        color: #333333;
+        background-color: #eeb746;
+    }
+    
+    .name__text {
+        font-size: 1.3rem;
+        padding: 8px 25px 10px 25px;
+        color: #333333;
+    }
+}
+
+@media (min-width: 400px) and (max-width: 759px) {
+    .featured__title {
+        font-size: 2rem;
+        margin-bottom: 0px;
+        font-family: "Syne", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        display: flex;
+        justify-content: center;
+        padding: 40px 25px 25px 20px;
+        color: #eeb746;
+    }
+    
+    .box {
+        border: 1px solid #333333;;
+        margin: 30px;
+    }
+    
+    .main__box {
+        display: block;
+        justify-content: center;
+        margin: 10px 0px;
+        padding: 0px;
+    }
+    
+    .name__title {
+        font-size: 1.5rem;
+        padding: 15px 15px;
+        display: flex;
+        justify-content: center;
+        color: #333333;
+        background-color: #eeb746;
+    }
+    
+    .name__text {
+        font-size: 1.3rem;
+        padding: 8px 25px 10px 25px;
+        color: #333333;
+    }
+}
+
+@media (min-width: 350px) and (max-width: 399px) {
+    .featured__title {
+        font-size: 2rem;
+        margin-bottom: 0px;
+        font-family: "Syne", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        display: flex;
+        justify-content: center;
+        padding: 40px 25px 25px 20px;
+        color: #eeb746;
+    }
+    
+    .box {
+        border: 1px solid #333333;;
+        margin: 30px;
+    }
+    
+    .main__box {
+        display: block;
+        justify-content: center;
+        margin: 10px 0px;
+        padding: 0px;
+    }
+    
+    .name__title {
+        font-size: 1.5rem;
+        padding: 15px 15px;
+        display: flex;
+        justify-content: center;
+        color: #333333;
+        background-color: #eeb746;
+    }
+    
+    .name__text {
+        font-size: 1.3rem;
+        padding: 8px 25px 10px 25px;
+        color: #333333;
+    }
+}
+
+@media (min-width: 300px) and (max-width: 349px) {
+    .featured__title {
+        font-size: 1.75rem;
+        margin-bottom: 0px;
+        font-family: "Syne", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        display: flex;
+        justify-content: center;
+        padding: 20px 20px 0px 20px;
+        color: #eeb746;
+    }
+    
+    .box {
+        border: 1px solid #333333;;
+        margin: 20px;
+    }
+    
+    .main__box {
+        display: block;
+        justify-content: center;
+        margin: 0px 0px;
+        padding: 0px;
+    }
+    
+    .name__title {
+        font-size: 1.5rem;
+        padding: 15px 15px;
+        display: flex;
+        justify-content: center;
+        color: #333333;
+        background-color: #eeb746;
+    }
+    
+    .name__text {
+        font-size: 1.3rem;
+        padding: 8px 25px 10px 25px;
+        color: #333333;
+    }
+}

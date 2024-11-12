@@ -14,7 +14,7 @@ function Navbar() {
   return (
     <div className='nav-head'>
         
-        <p className='hf'></p> <b className='favored'>Highly Favored</b> {" "}
+        <p className='hf'></p> <b className='favored'>HighVision Media</b> {" "}
        
         <nav ref={navRef} className='navname'>
             {/* <a href="#home">Home</a>

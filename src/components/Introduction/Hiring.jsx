@@ -19,7 +19,7 @@ function Hiring() {
         <br />
 
         <div className='p__text'>
-        With our fixed rate per project, you will have your video editing costs under control and you can allocate more time and money to growing your business.
+          You will have your video editing costs under control and you can allocate more time and money to growing your business.
         </div>
         
         <P2/>

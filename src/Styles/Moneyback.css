@@ -30,3 +30,188 @@
     display: flex;
     justify-content: center;
 }
+
+@media (min-width: 1000px) and (max-width: 1390px) {
+    .money__main {
+        display: flex;
+        justify-content: center;
+        border-top: 1px solid gray;
+        background-color: #eeb746;
+    }
+    
+    .money__title {
+        font-size: 3rem;
+        margin-bottom: 10px;
+        font-family: "Syne", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        display: flex;
+        justify-content: center;
+        padding-top: 50px;
+    }
+    
+    .star__icon {
+        font-size: 3rem;
+        color: black;
+        margin-top: 10px;
+        /* margin: 10px; */
+    }
+    
+    .money__p {
+        font-size: 1.5rem;
+        margin: 10px 120px 70px 120px;
+    }
+    
+    .staricon {
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media (min-width: 760px) and (max-width: 1000px) {
+    .money__main {
+        display: flex;
+        justify-content: center;
+        border-top: 1px solid gray;
+        background-color: #eeb746;
+    }
+    
+    .money__title {
+        font-size: 2.7rem;
+        margin-bottom: 10px;
+        font-family: "Syne", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        display: flex;
+        justify-content: center;
+        padding-top: 50px;
+    }
+    
+    .star__icon {
+        font-size: 3rem;
+        color: black;
+        margin-top: 10px;
+        /* margin: 10px; */
+    }
+    
+    .money__p {
+        font-size: 1.3rem;
+        margin: 10px 120px 70px 120px;
+    }
+    
+    .staricon {
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media (min-width: 400px) and (max-width: 759px) {
+    .money__main {
+        display: flex;
+        justify-content: center;
+        border-top: 1px solid gray;
+        background-color: #eeb746;
+    }
+    
+    .money__title {
+        font-size: 1.75rem;
+        margin-bottom: 10px;
+        font-family: "Syne", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        display: flex;
+        justify-content: center;
+        padding: 50px 0px 0px 0px;
+    }
+    
+    .star__icon {
+        font-size: 3rem;
+        color: black;
+        margin-top: 10px;
+        /* margin: 10px; */
+    }
+    
+    .money__p {
+        font-size: 1.3rem;
+        margin: 10px 30px 70px 30px;
+    }
+    
+    .staricon {
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media (min-width: 350px) and (max-width: 399px) {
+    .money__main {
+        display: flex;
+        justify-content: center;
+        border-top: 1px solid gray;
+        background-color: #eeb746;
+    }
+    
+    .money__title {
+        font-size: 1.5rem;
+        margin-bottom: 10px;
+        font-family: "Syne", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        display: flex;
+        justify-content: center;
+        padding: 40px 0px 0px 0px;
+    }
+    
+    .star__icon {
+        font-size: 3rem;
+        color: black;
+        margin-top: 10px;
+        /* margin: 10px; */
+    }
+    
+    .money__p {
+        font-size: 1.3rem;
+        margin: 10px 30px 50px 30px;
+    }
+    
+    .staricon {
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media (min-width: 300px) and (max-width: 349px) {
+    .money__main {
+        display: flex;
+        justify-content: center;
+        border-top: 1px solid gray;
+        background-color: #eeb746;
+    }
+    
+    .money__title {
+        font-size: 1.4rem;
+        margin-bottom: 10px;
+        font-family: "Syne", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        display: flex;
+        justify-content: center;
+        padding: 40px 0px 0px 0px;
+    }
+    
+    .star__icon {
+        font-size: 3rem;
+        color: black;
+        margin-top: 10px;
+        /* margin: 10px; */
+    }
+    
+    .money__p {
+        font-size: 1.3rem;
+        margin: 10px 30px 50px 30px;
+    }
+    
+    .staricon {
+        display: flex;
+        justify-content: center;
+    }
+}
