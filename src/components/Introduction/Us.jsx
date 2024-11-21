@@ -6,7 +6,7 @@ function Us() {
   return (
     <div className='us'>
          <button className='about__us'>
-         <Link to="/about" className="aboutpage"> <b>About Us</b> </Link>
+         <Link to="/about " className="aboutpage"> <b>About Us</b> </Link>
          </button>
     </div>
   )

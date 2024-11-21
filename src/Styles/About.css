@@ -130,7 +130,7 @@
 
 @media (min-width: 360px) and (max-width: 399px) {
     .ready {
-        font-size: 2.75rem;
+        font-size: 2rem;
         display: flex;
         justify-content: center;
         padding-top: 80px;

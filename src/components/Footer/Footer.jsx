@@ -3,6 +3,7 @@ import "../../Styles/Footer.css";
 import { FaLinkedin } from "react-icons/fa6";
 import { FaFacebook } from "react-icons/fa";
 import { SiMessenger } from "react-icons/si";
+import { Link } from "react-router-dom";
 
 function Footer() {
   return (
@@ -12,26 +13,26 @@ function Footer() {
 
         <ul className="footer__list">
           <li>
-            <a href="#about" className="footer__link">
-              About
-            </a>
+          <Link to="/"> <b>Home</b></Link>
+          
           </li>
 
           <li>
-            <a href="#projects" className="footer__link">
-              Projects
-            </a>
+          <Link to="/about"> <b>About</b></Link>
           </li>
 
           <li>
-            <a href="#services" className="footer__link">
-              Services
-            </a>
+          <Link to="/portfolio"> <b>Portfolio</b></Link>
+          </li>
+
+          <li>
+          <Link to="/contact"> <b>Contacts</b></Link>
           </li>
         </ul>
+        
 
         <div className="footer__social">
-          <a
+          {/* <a
             href="https://github.com/kodegopj"
             className="footer__social-link"
             target="_blank"
@@ -40,14 +41,14 @@ function Footer() {
           </a>
           <a href="https://www.linkedin.com/in/paul-john-cunanan-b91176297" className="footer__social-link" target="_blank">
             <FaLinkedin />
-          </a>
-          <a
+          </a> */}
+          {/* <a
             href="https://www.facebook.com/pauljohn.cunanan.14"
             className="footer__social-link"
             target="_blank"
           >
             <FaFacebook />
-          </a>
+          </a> */}
         </div>
       </div>
     </footer>

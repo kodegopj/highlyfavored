@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'react';
+import { Link } from 'react-router-dom';
 
 function Landing() {
   return (
@@ -29,7 +30,7 @@ function Landing() {
         </div>
 
         <button className='get'>
-            GET STARTED
+            <Link to="/contact"> <b>GET STARTED</b></Link>
         </button>
        
     </section>

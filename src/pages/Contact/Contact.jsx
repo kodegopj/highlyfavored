@@ -40,11 +40,11 @@ function Contact() {
               <RiMailSendFill className="contacts__icon" />
               <h3 className="contacts__card-title">Email</h3>
               <span className="contacts__card-data">
-                hanzjonvi.malata14@gmail.com
+                d.highlyfavored11@gmail.com
               </span>
 
               <a
-                href="hanzjonvi.malata14@gmail.com"
+                href="d.highlyfavored11@gmail.com"
                 className="contacts__button"
               >
                 Write me
@@ -52,7 +52,7 @@ function Contact() {
               </a>
             </div>
 
-            <div className="contacts__card">
+            {/* <div className="contacts__card">
               <FaLinkedin className="contacts__icon" />
               <h3 className="contacts__card-title">LinkedIn</h3>
               <span className="contacts__card-data">
@@ -63,7 +63,7 @@ function Contact() {
                 Write me
                 <FaArrowRight className="arrow__icon" />
               </a>
-            </div>
+            </div> */}
 
             <div className="contacts__card">
               <FaFacebook className="contacts__icon" />

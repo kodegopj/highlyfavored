@@ -20,11 +20,11 @@ function Howitworks() {
                 <b>#1 Transfer your video files</b>
             </div>
 
-            <div>
+            <div className='works__p'>
             Send us your raw video clips through Google Drive, Dropbox or any other similar cloud storage service.
             </div>
 
-            <div>
+            <div className='works__p' >
             Share a brief of your video editing instructions or let us do our magic.
             </div>
         </div>
@@ -38,11 +38,11 @@ function Howitworks() {
                 <b>#2 Get your edited video</b>
             </div>
 
-            <div>
+            <div className='works__p'>
             We will email you a download link for your edited video in 5-7 days, on average.
             </div>
 
-            <div>
+            <div className='works__p' >
             Or in 48 hours if you’ve opted in for the speedy turnaround option.
             </div>
         </div>
@@ -56,11 +56,11 @@ function Howitworks() {
                 <b>#3 Request changes, if needed</b>
             </div>
 
-            <div>
+            <div className='works__p'>
             Share your feedback on the video and we are happy to work with you on up to 2 free revisions.
             </div>
 
-            <div>
+            <div className='works__p'>
             No extra charges, no strigs attached
             </div>
         </div>

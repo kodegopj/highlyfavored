@@ -133,13 +133,13 @@
 @media (min-width: 760px) and (max-width: 1000px)  {
     .what__title {
         font-size: 2.5rem;
-        margin-bottom: 20px;
+        margin-bottom: 0px;
         font-family: "Syne", sans-serif;
         font-optical-sizing: auto;
         font-weight: weight;
         display: flex;
         justify-content: center;
-        padding-top: 40px;
+        padding-top: 20px;
         color: #333333;
     }
     
@@ -183,14 +183,14 @@
     }
     
     .areyou {
-        font-size: 1.8rem;
+        font-size: 1.5rem;
         background-color: #eeb746;
         padding: 10px 20px;
         border-radius: 15px;
     }
     
     .what__text {
-        font-size: 1.3rem;
+        font-size: 1rem;
         display: inline;
         margin: 30px 70px 50px 0px;
         padding: 10px 30px;
@@ -205,14 +205,14 @@
 
 @media (min-width: 400px) and (max-width: 759px) {
     .what__title {
-        font-size: 2.5rem;
-        /* margin-bottom: 20px; */
+        font-size: 2rem;
+        margin-bottom: 0px;
         font-family: "Syne", sans-serif;
         font-optical-sizing: auto;
         font-weight: weight;
         display: flex;
         justify-content: center;
-        padding-top: 30px;
+        padding-top: 10px;
         color: #333333;
     }
     
@@ -256,14 +256,14 @@
     }
     
     .areyou {
-        font-size: 1.5rem;
+        font-size: 1.3rem;
         background-color: #eeb746;
         padding: 10px 20px;
         border-radius: 25px;
     }
     
     .what__text {
-        font-size: 1.3rem;
+        font-size: 1rem;
         display: inline;
         margin: 30px 70px 50px 0px;
         padding: 10px 30px;
@@ -275,10 +275,10 @@
     }
 }
 
-@media (min-width: 360px) and (max-width: 370px)  {
+@media (min-width: 360px) and (max-width: 399px)  {
     .what__title {
-        font-size: 2.3rem;
-        /* margin-bottom: 20px; */
+        font-size: 2rem;
+        margin-bottom: 0px;
         font-family: "Syne", sans-serif;
         font-optical-sizing: auto;
         font-weight: weight;
@@ -350,7 +350,7 @@
 @media (min-width: 300px) and (max-width: 359px) {
     .what__title {
         font-size: 2rem;
-        /* margin-bottom: 20px; */
+        margin-bottom: 0px;
         font-family: "Syne", sans-serif;
         font-optical-sizing: auto;
         font-weight: weight;
@@ -401,14 +401,14 @@
     }
     
     .areyou {
-        font-size: 1.5rem;
+        font-size: 1.3rem;
         background-color: #eeb746;
         padding: 10px 20px;
         border-radius: 25px;
     }
     
     .what__text {
-        font-size: 1.3rem;
+        font-size: 1rem;
         display: inline;
         margin: 30px 70px 50px 0px;
         padding: 10px 30px;

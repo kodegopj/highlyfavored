@@ -81,7 +81,7 @@
     
     .out__title {
         font-size: 2.5rem;
-        margin-bottom: 50px ;
+        margin-bottom: 20px ;
         font-family: "Syne", sans-serif;
         font-optical-sizing: auto;
         font-weight: weight;
@@ -101,10 +101,10 @@
 @media (min-width: 400px) and (max-width: 759px) {
     .ourbox {
         display: flex;
-        font-size: 1.3rem;
+        font-size: 1rem;
         justify-content: left;
         margin: 0px 20px;
-        padding: 20px 0px;
+        padding:5px 0px;
         border-bottom: 2px solid #070707;
     }
     
@@ -115,19 +115,19 @@
     
     .out__title {
         font-size: 2rem;
-        margin-bottom: 20px ;
+        margin-bottom: 0px ;
         font-family: "Syne", sans-serif;
         font-optical-sizing: auto;
         font-weight: weight;
         display: flex;
         justify-content: center;
-        padding: 50px 20px 10px 20px;
+        padding: 30px 20px 10px 20px;
         color: #333333;
     }
     
     .check__icons {
         color: #eeb746;
-        font-size: 1.7rem;
+        font-size: 1.3rem;
         padding-right: 20px;
     }  
 }
@@ -135,10 +135,10 @@
 @media (min-width: 360px) and (max-width: 399px) {
     .ourbox {
         display: flex;
-        font-size: 1.3rem;
+        font-size: 1rem;
         justify-content: left;
         margin: 0px 20px;
-        padding: 20px 0px;
+        padding: 5px 0px;
         border-bottom: 2px solid #070707;
     }
     
@@ -149,20 +149,20 @@
     
     .out__title {
         font-size: 2rem;
-        margin-bottom: 20px ;
+        margin-bottom: 0px ;
         font-family: "Syne", sans-serif;
         font-optical-sizing: auto;
         font-weight: weight;
         display: flex;
         justify-content: center;
-        padding: 50px 20px 10px 20px;
+        padding: 30px 20px 10px 20px;
         color: #333333;
         align-items: center;
     }
     
     .check__icons {
         color: #eeb746;
-        font-size: 1.7rem;
+        font-size: 1.3rem;
         padding-right: 10px;
     }  
 }
@@ -170,10 +170,10 @@
 @media (min-width: 300px) and (max-width: 359px) {
     .ourbox {
         display: flex;
-        font-size: 1.3rem;
+        font-size: 1rem;
         justify-content: left;
         margin: 0px 20px;
-        padding: 20px 0px;
+        padding: 5px 0px;
         border-bottom: 2px solid #070707;
     }
     
@@ -190,14 +190,14 @@
         font-weight: weight;
         display: flex;
         justify-content: center;
-        padding: 50px 20px 10px 20px;
+        padding: 20px 20px 0px 20px;
         color: #333333;
         align-items: center;
     }
     
     .check__icons {
         color: #eeb746;
-        font-size: 1.7rem;
+        font-size: 1.3rem;
         padding-right: 10px;
     } 
 }

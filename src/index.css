@@ -5,8 +5,8 @@
 :root {
     --header-height: 3rem;
     --hue: 255;
-    --first-color: hsl(var(--hue), 57%, 26%);
-    --first-color-alt: hsl(var(--hue), 82%, 56%);
+    /* --first-color: hsl(var(--hue), 57%, 26%); */
+    /* --first-color-alt: hsl(var(--hue), 82%, 56%); */
     --first-color-light: hsl(var(--hue), 40%, 80%);
     --text-color-light: hsl(var(--hue), 8%, 60%);
     --white-color: hsl(0, 0%, 100%);
@@ -164,7 +164,7 @@ img {
 /* ========== BUTTONS ==========*/
 .button {
     display: inline-block;
-    background-color: rgb(33, 72, 211);
+    background-color: rgb(15, 15, 16);
     color: var(--container-color);
     padding: 1.25rem 2rem;
     border-radius: 1rem;
@@ -172,7 +172,7 @@ img {
 }
 
 .button:hover {
-    margin-left: var(--title-color-dark);
+    margin-left: black;
 }
 
 .button__icon {

@@ -78,8 +78,8 @@
 
 @media (min-width: 760px) and (max-width: 1000px) {
     .featured__title {
-        font-size: 2.5rem;
-        margin-bottom: 10px;
+        font-size: 2rem;
+        margin-bottom: 0px;
         font-family: "Syne", sans-serif;
         font-optical-sizing: auto;
         font-weight: weight;
@@ -111,7 +111,7 @@
     }
     
     .name__text {
-        font-size: 1.3rem;
+        font-size: 1rem;
         padding: 8px 25px 10px 25px;
         color: #333333;
     }
@@ -119,14 +119,14 @@
 
 @media (min-width: 400px) and (max-width: 759px) {
     .featured__title {
-        font-size: 2rem;
+        font-size: 1.75rem;
         margin-bottom: 0px;
         font-family: "Syne", sans-serif;
         font-optical-sizing: auto;
         font-weight: weight;
         display: flex;
         justify-content: center;
-        padding: 40px 25px 25px 20px;
+        padding: 20px 25px 0px 20px;
         color: #eeb746;
     }
     
@@ -143,7 +143,7 @@
     }
     
     .name__title {
-        font-size: 1.5rem;
+        font-size: 1.3rem;
         padding: 15px 15px;
         display: flex;
         justify-content: center;
@@ -152,7 +152,7 @@
     }
     
     .name__text {
-        font-size: 1.3rem;
+        font-size: 1rem;
         padding: 8px 25px 10px 25px;
         color: #333333;
     }
@@ -160,14 +160,14 @@
 
 @media (min-width: 360px) and (max-width: 399px) {
     .featured__title {
-        font-size: 2rem;
+        font-size: 1.5rem;
         margin-bottom: 0px;
         font-family: "Syne", sans-serif;
         font-optical-sizing: auto;
         font-weight: weight;
         display: flex;
         justify-content: center;
-        padding: 40px 25px 25px 20px;
+        padding: 20px 25px 0px 20px;
         color: #eeb746;
     }
     
@@ -184,7 +184,7 @@
     }
     
     .name__title {
-        font-size: 1.5rem;
+        font-size: 1.3rem;
         padding: 15px 15px;
         display: flex;
         justify-content: center;
@@ -193,15 +193,16 @@
     }
     
     .name__text {
-        font-size: 1.3rem;
-        padding: 8px 25px 10px 25px;
+        font-size: 1rem;
+        padding: 8px 25px 20px 25px;
         color: #333333;
+        margin-bottom: 10px;
     }
 }
 
 @media (min-width: 300px) and (max-width: 359px) {
     .featured__title {
-        font-size: 1.75rem;
+        font-size: 1.5rem;
         margin-bottom: 0px;
         font-family: "Syne", sans-serif;
         font-optical-sizing: auto;
@@ -225,7 +226,7 @@
     }
     
     .name__title {
-        font-size: 1.5rem;
+        font-size: 1.3rem;
         padding: 15px 15px;
         display: flex;
         justify-content: center;
@@ -234,8 +235,9 @@
     }
     
     .name__text {
-        font-size: 1.3rem;
+        font-size: 1rem;
         padding: 8px 25px 10px 25px;
         color: #333333;
+        margin-bottom: 10pxx;
     }
 }
