@@ -33,14 +33,14 @@ function Contact() {
 
       <div className="contacts__container container grid">
         <div className="contacts__content">
-          <h3 className="contacts__title">Talk to me</h3>
+          <h3 className="contacts__title">Talk to us</h3>
 
           <div className="contacts__info">
             <div className="contacts__card">
               <RiMailSendFill className="contacts__icon" />
               <h3 className="contacts__card-title">Email</h3>
               <span className="contacts__card-data">
-                d.highlyfavored11@gmail.com
+              highvision.business1@gmail.com
               </span>
 
               <a
@@ -69,14 +69,14 @@ function Contact() {
               <FaFacebook className="contacts__icon" />
               <h3 className="contacts__card-title">Facebook</h3>
               <span className="contacts__card-data">
-                https://www.facebook.com/hanzstillfaith.malata.5
+              https://web.facebook.com/profile.php?id=100063533413683
               </span>
 
               <a
-                href="https://www.facebook.com/hanzstillfaith.malata.5"
+                href="https://web.facebook.com/profile.php?id=100063533413683"
                 className="contacts__button"
               >
-                Write me
+                Write here
                 <FaArrowRight className="arrow__icon" />
               </a>
             </div>

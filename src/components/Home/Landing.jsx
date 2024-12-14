@@ -22,7 +22,7 @@ function Landing() {
         </div>
 
         <div className='engage'>
-        Engage your audience with stunning videos that not only capture attention but turn viewers into loyal customers.
+        Engage your audience with stunning videos  not only to capture attention but to turn viewers into loyal customers.
         
         </div>
         <div className='unlock'>
